@@ -1,0 +1,12 @@
+('The total number of voters  included in the dataset:', 4324001)
+('List of candidates:', {'Torres', 'Khan', 'Li', "O'Tooley", 'Cordin', 'Correy', 'Seth', 'Vestal'})
+{'Vestal': 385440, 'Torres': 353320, 'Seth': 40150, 'Cordin': 24090, 'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630}
+Li got the following percentage of vote: 11.400089870469502
+Khan got the following percentage of vote: 51.30042754384192
+vestal got the following percentage of vote: 8.91396648613171
+Seth got the following percentage of vote: 0.9285381756387199
+Correy got the following percentage of vote: 16.28584267209929
+Cordin got the following percentage of vote: 0.5571229053832318
+Torres got the following percentage of vote: 8.171135945620735
+Tooley got the following percentage of vote: 2.4428764008148933
+('Winner of the election is:', 'Khan')

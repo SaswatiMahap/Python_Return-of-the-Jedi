@@ -1,0 +1,5 @@
+('The total months:', 127)
+55945323
+-5734.432
+15-Sep has the greatest revenue 1195111
+14-Aug has the least revenue -1172384
